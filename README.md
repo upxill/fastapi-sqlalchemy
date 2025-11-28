@@ -30,7 +30,7 @@ A simple REST API built with FastAPI and SQLAlchemy for managing product invento
 
 ### 1. Clone or navigate to the project directory
 ```bash
-cd /Users/upxill/Documents/01-workspace/03-fastapi
+cd /Users/polagani/Documents/01-workspace/03-fastapi
 ```
 
 ### 2. Create a virtual environment (recommended)
